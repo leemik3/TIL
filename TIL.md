@@ -2,7 +2,7 @@
 
 그날 그날 Check 하고 싶었던 부분 정리
 ```
-보통은~
+보통
 Deep Learning : 딥러닝 텐서플로 교과서 베이스로 공부
 Algorithm : 백준 문제집
 Python : 딥러닝, 알고리즘 공부하면서 몰랐던 파이썬 문법 정리
@@ -10,6 +10,12 @@ Python : 딥러닝, 알고리즘 공부하면서 몰랐던 파이썬 문법 정�
 ## 2021.08.23
 #### [Deep Learning]
 1. 오늘 미팅 Keyword : Context Aware, Anomaly Detection, Autoencoder, stream data, CNN / RNN, self-supervised learning
+
+#### [Python]
+2. 
+```result = list([0, 0, 0, 0] for i in range(len(N)))```
+```result = list(zero for i in range(len(N)))```
+: result[0][0]+=1 를 했을 때 위 코드에서는 정상 작동, 아래 코드에서는 모든 원소의 0번 인덱스 값이 바뀜
 
 ## 2021.08.22
 #### [Algorithm]
