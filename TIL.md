@@ -10,6 +10,7 @@ Python : 딥러닝, 알고리즘 공부하면서 몰랐던 파이썬 문법 정�
 ## 2021.08.23
 #### [Deep Learning]
 1. 오늘 미팅 Keyword : Context Aware, Anomaly Detection, Autoencoder, stream data, CNN / RNN, self-supervised learning
+2. Autoencoder을 anomaly 데이터 처리하는 데에 사용하기도 함. 차원을 압축시키는 과정에서 아무래도 noise 한 부분이 사라질 수 있기 때문.
 
 ## 2021.08.22
 #### [Algorithm]
