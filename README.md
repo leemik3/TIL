@@ -2,10 +2,13 @@
 
 TIL wiki 정리
 
-### 딥러닝
+### Python
 
 
-### 알고리즘
+### Deep Learning
+
+
+### Algorithm
 
 
 
