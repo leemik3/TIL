@@ -7,6 +7,12 @@ Deep Learning : 딥러닝 텐서플로 교과서 베이스로 공부
 Algorithm : 백준 문제집
 Python : 딥러닝, 알고리즘 공부하면서 몰랐던 파이썬 문법 정리
 ```
+## 2021.08.25
+#### [Algorithm]
+1. shallow 복사 : 슬라이싱으로
+
+
+
 ## 2021.08.23
 #### [Deep Learning]
 1. 오늘 미팅 Keyword : Context Aware, Anomaly Detection, Autoencoder, stream data, CNN / RNN, self-supervised learning
