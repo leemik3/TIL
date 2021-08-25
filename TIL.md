@@ -3,9 +3,9 @@
 그날 그날 Check 하고 싶었던 부분 정리
 ```
 보통
-Deep Learning : 딥러닝 텐서플로 교과서 베이스로 공부
-Algorithm : 백준 문제집
-Python : 딥러닝, 알고리즘 공부하면서 몰랐던 파이썬 문법 정리
+Deep Learning : 딥러닝 텐서플로 교과서 베이스로 공부, [관련 repo](https://github.com/leemik3/tensorflow-2.0)
+Algorithm : 백준 문제집, [관련 repo](https://github.com/hymk-scdc/algorithm/tree/main/mk)
+Python : 딥러닝, 알고리즘 공부하면서 몰랐던 파이썬 문법 정리 [관련 repo](https://github.com/leemik3/python)
 ```
 ## 2021.08.25
 #### [Algorithm]
