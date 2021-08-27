@@ -1,16 +1,28 @@
 # TIL
 
-그날 그날 Check 하고 싶었던 부분 정리
+그날 그날 Check 하고 싶은 부분 간략 정리
 
->보통
+>보통  
 Deep Learning : 딥러닝 텐서플로 교과서 베이스로 공부, [관련 repo](https://github.com/leemik3/tensorflow-2.0)  
 Algorithm : 백준 문제집, [관련 repo](https://github.com/hymk-scdc/algorithm/tree/main/mk)  
-Python : 딥러닝, 알고리즘 공부하면서 몰랐던 파이썬 문법 정리 [관련 repo](https://github.com/leemik3/python)
+Python : 딥러닝, 알고리즘 공부하면서 몰랐던 파이썬 문법 정리, [관련 repo](https://github.com/leemik3/python)
+
+## 2021.08.27
+#### [Deep Learning]
+1. [Fine-grained 개념](https://github.com/leemik3/tensorflow-2.0/wiki/Coarse-grained,-Fine-grained)
+2. [Grid Search 개념](https://github.com/leemik3/tensorflow-2.0/wiki/Grid-Search)
+3. [FLOPS](https://github.com/leemik3/tensorflow-2.0/wiki/FLOPS) : 컴퓨터의 성능을 수치로 나타낸 단위
+
+## 2021.08.26
+#### [Deep Learning]
+1. Variational AutoEncoder의 늪에서 허우적허우적~ 그래 쉬운 것만 공부하면 실력이 어떻게 늘겠어~ 어려운 거 꾸역꾸역 이해해나가야 몰랐던 걸 알게 되는거고 그게 반복돼야 실력이 느는거지~ 
+
+#### [Algorithm]
+2. 동적 계획법 (Dynamic Programming)
 
 ## 2021.08.25
 #### [Algorithm]
 1. shallow 복사 : 슬라이싱으로
-
 
 
 ## 2021.08.23
@@ -19,7 +31,7 @@ Python : 딥러닝, 알고리즘 공부하면서 몰랐던 파이썬 문법 정�
 2. Autoencoder을 anomaly 데이터 처리하는 데에 사용하기도 함. 차원을 압축시키는 과정에서 아무래도 noise 한 부분이 사라질 수 있기 때문.
 
 #### [Python]
-2. 
+3. 
 ```result = list([0, 0, 0, 0] for i in range(len(N)))```
 ```result = list(zero for i in range(len(N)))```
 : result[0][0]+=1 를 했을 때 위 코드에서는 정상 작동, 아래 코드에서는 모든 원소의 0번 인덱스 값이 바뀜
