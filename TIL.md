@@ -24,7 +24,7 @@ Python : 딥러닝, 알고리즘 공부하면서 몰랐던 파이썬 문법 정�
 1. Variational AutoEncoder의 늪에서 허우적허우적~ 그래 쉬운 것만 공부하면 실력이 어떻게 늘겠어~ 어려운 거 꾸역꾸역 이해해나가야 몰랐던 걸 알게 되는거고 그게 반복돼야 실력이 느는거지~ 
 
 #### [Algorithm]
-2. 동적 계획법 (Dynamic Programming)
+2. [동적 계획법 (Dynamic Programming)](https://github.com/hymk-scdc/algorithm/wiki/Dynamic-Programming)
 
 ## 2021.08.25
 #### [Algorithm]
