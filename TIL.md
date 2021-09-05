@@ -7,6 +7,13 @@ Deep Learning : 딥러닝 텐서플로 교과서 베이스로 공부, [관련 re
 Algorithm : 백준 문제집, [관련 repo](https://github.com/hymk-scdc/algorithm/tree/main/mk)  
 Python : 딥러닝, 알고리즘 공부하면서 몰랐던 파이썬 문법 정리, [관련 repo](https://github.com/leemik3/python)
 
+## 2021.09.05
+#### [Algorithm]
+1. DP 문제 풀 때 사용하는 알고리즘 중 1가지 - **LIS** : 가장 긴 증가하는 부분 수열,  [관련 repo](https://github.com/hymk-scdc/algorithm/wiki/LIS)
+2. 동적 계획법 문제를 풀 때 느낀 공통점
+   1. 앞에 어떤 값이 나올 줄 알고~?
+   2. 내가 만들어야 하는 것(혹은 내가 지금 사용할 값)은 앞의 경우를 다 고려한 값으로 업데이트 된 상태
+
 ## 2021.09.01
 #### [Deep Learning]
 1. RNN 뿌셔 뿌셔
