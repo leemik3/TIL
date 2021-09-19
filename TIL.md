@@ -11,6 +11,10 @@ Python : 딥러닝, 알고리즘 공부하면서 몰랐던 파이썬 문법 정�
 #### [Algorithm]
 1. DP 문제 풀기 기초 : 점화식 만드는 거
 
+#### [Deep Learning]
+2. [Vision] [Gaussian filter와 Bilateral filter의 차이점](https://github.com/leemik3/tensorflow-2.0/wiki/Gaussian-Filter-VS-Bilateral-Filter)  
+Bilateral filter는 색이 비슷한 정도까지 반영해서 색이 다르면 smoothing 안 한다.
+
 ## 2021.09.13
 #### [Deep Learning]
 1. multi-source, multivariate 의 차이의 핵심은 뭐지? multi-source는 필연적으로 multivariate. 보기 나름인 듯.
