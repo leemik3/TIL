@@ -7,6 +7,20 @@ Deep Learning : 딥러닝 텐서플로 교과서 베이스로 공부, [관련 re
 Algorithm : 백준 문제집, [관련 repo](https://github.com/hymk-scdc/algorithm/tree/main/mk)  
 Python : 딥러닝, 알고리즘 공부하면서 몰랐던 파이썬 문법 정리, [관련 repo](https://github.com/leemik3/python)
 
+## 2021.09.19
+#### [Algorithm]
+1. DP 문제 풀기 기초 : 점화식 만드는 거
+
+## 2021.09.13
+#### [Deep Learning]
+1. multi-source, multivariate 의 차이의 핵심은 뭐지? multi-source는 필연적으로 multivariate. 보기 나름인 듯.
+
+
+## 2021.09.10
+#### [Algorithm]
+1. DP 문제 풀기 전략 : 우선 앞 경우 다 써보고, 중복되는 문제 뭐였는지 보면 그림이 보일때도 있음
+
+
 ## 2021.09.05
 #### [Algorithm]
 1. DP 문제 풀 때 사용하는 알고리즘 중 1가지 - **LIS** : 가장 긴 증가하는 부분 수열,  [관련 repo](https://github.com/hymk-scdc/algorithm/wiki/LIS)
