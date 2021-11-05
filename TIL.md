@@ -7,6 +7,18 @@ Deep Learning : 딥러닝 텐서플로 교과서 베이스로 공부, [관련 re
 Algorithm : 백준 문제집, [관련 repo](https://github.com/hymk-scdc/algorithm/tree/main/mk)  
 Python : 딥러닝, 알고리즘 공부하면서 몰랐던 파이썬 문법 정리, [관련 repo](https://github.com/leemik3/python)
 
+## 2021.11.05
+#### [Data Analysis]
+1. granularity
+
+## 2021.10.28
+#### [Deep Learning]
+1. 데이터 다운로드 : 기상 정보 데이터 - QC 플래그 : 정상/오류/결측 여부 - 중요함
+
+## 2021.09.28
+#### [Algorithm]
+1. if문 추가하는 것도 시간복잡도에 영향을 주나?
+
 ## 2021.09.19
 #### [Algorithm]
 1. DP 문제 풀기 기초 : 점화식 만드는 거
