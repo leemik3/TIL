@@ -7,6 +7,11 @@ Deep Learning : 딥러닝 텐서플로 교과서 베이스로 공부, [관련 re
 Algorithm : 백준 문제집, [관련 repo](https://github.com/hymk-scdc/algorithm/tree/main/mk)  
 Python : 딥러닝, 알고리즘 공부하면서 몰랐던 파이썬 문법 정리, [관련 repo](https://github.com/leemik3/python)
 
+## 2021.11.08
+#### [Tensorflow]
+1. matmul과 dot의 차이
+
+
 ## 2021.11.07
 #### [Algorithm]
 1. 백준 2331 관련 : 재귀함수 : return 명시적으로 정의하지 않아도 자동으로 return None, 
