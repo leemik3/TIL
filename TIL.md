@@ -7,6 +7,18 @@ Deep Learning : 딥러닝 텐서플로 교과서 베이스로 공부, [관련 re
 Algorithm : 백준 문제집, [관련 repo](https://github.com/hymk-scdc/algorithm/tree/main/mk)  
 Python : 딥러닝, 알고리즘 공부하면서 몰랐던 파이썬 문법 정리, [관련 repo](https://github.com/leemik3/python)
 
+## 2021.03.11
+#### [Deep Learning]
+1. 슬라이싱 윈도우에서 인덱싱으로 인해 너무 실행 시간이 오래 걸리는 문제 - 덱 자료구조를 통해 시간 단축 (40s -> 0.2s)
+
+## 2021.02.27
+#### [Algorithm]
+1. int(n, 숫자) : 진법표현
+
+## 2021.11.12
+#### [Deep Learning]
+1. data type : int, int64 차이점
+
 ## 2021.11.08
 #### [Tensorflow]
 1. matmul과 dot의 차이
